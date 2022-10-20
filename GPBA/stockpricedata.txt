@@ -1,0 +1,121 @@
+ticker,name,date,price
+GOOG,Google,12312019,1337.02
+GOOG,Google,01312020,1434.23
+GOOG,Google,02282020,1339.33
+GOOG,Google,03312020,1162.81
+GOOG,Google,04302020,1348.66
+GOOG,Google,05312020,1428.92
+GOOG,Google,06302020,1413.61
+GOOG,Google,07312020,1482.96
+GOOG,Google,08312020,1634.18
+GOOG,Google,09302020,1469.60
+GOOG,Google,10312020,1621.01
+GOOG,Google,11132020,1777.02
+KO,The Coca-Cola Company,12312019,55.35
+KO,The Coca-Cola Company,01312020,58.40
+KO,The Coca-Cola Company,02282020,53.49
+KO,The Coca-Cola Company,03312020,44.25
+KO,The Coca-Cola Company,04302020,45.89
+KO,The Coca-Cola Company,05312020,46.68
+KO,The Coca-Cola Company,06302020,44.68
+KO,The Coca-Cola Company,07312020,47.24
+KO,The Coca-Cola Company,08312020,49.53
+KO,The Coca-Cola Company,09302020,49.37
+KO,The Coca-Cola Company,10312020,48.06
+KO,The Coca-Cola Company,11132020,53.45
+AMZN,Amazon.com Inc,12312019,1847.84
+AMZN,Amazon.com Inc,01312020,2008.72
+AMZN,Amazon.com Inc,02282020,1883.75
+AMZN,Amazon.com Inc,03312020,1949.72
+AMZN,Amazon.com Inc,04302020,2474.00
+AMZN,Amazon.com Inc,05312020,2442.37
+AMZN,Amazon.com Inc,06302020,2758.82
+AMZN,Amazon.com Inc,07312020,3164.68
+AMZN,Amazon.com Inc,08312020,3450.96
+AMZN,Amazon.com Inc,09302020,3148.73
+AMZN,Amazon.com Inc,10312020,3036.15
+AMZN,Amazon.com Inc,11132020,3128.81
+F,Ford Motor Company,12312019,9.30
+F,Ford Motor Company,01312020,8.82
+F,Ford Motor Company,02282020,6.96
+F,Ford Motor Company,03312020,4.83
+F,Ford Motor Company,04312020,5.09
+F,Ford Motor Company,05312020,5.71
+F,Ford Motor Company,06302020,6.08
+F,Ford Motor Company,07312020,6.61
+F,Ford Motor Company,08312020,6.82
+F,Ford Motor Company,09302020,6.66
+F,Ford Motor Company,10312020,7.73
+F,Ford Motor Company,11132020,8.54
+DIS,The Walt Disney Company,12312019,144.63
+DIS,The Walt Disney Company,01310202,137.81
+DIS,The Walt Disney Company,02282020,117.65
+DIS,The Walt Disney Company,03312020,96.60
+DIS,The Walt Disney Company,04302020,108.15
+DIS,The Walt Disney Company,05312020,117.30
+DIS,The Walt Disney Company,06302020,111.51
+DIS,The Walt Disney Company,07312020,116.94
+DIS,The Walt Disney Company,08312020,131.87
+DIS,The Walt Disney Company,09302020,124.08
+DIS,The Walt Disney Company,10312020,121.54
+DIS,The Walt Disney Company,11132020,138.86
+NFLX,Netflix Inc,12312019,323.57
+NFLX,Netflix Inc,01302020,345.09
+NFLX,Netflix Inc,02282020,369.03
+NFLX,Netflix Inc,03312020,375.50
+NFLX,Netflix Inc,04302020,419.85
+NFLX,Netflix Inc,05312020,419.73
+NFLX,Netflix Inc,06302020,455.04
+NFLX,Netflix Inc,07312020,488.88
+NFLX,Netflix Inc,08312020,529.56
+NFLX,Netflix Inc,09302020,500.03
+NFLX,Netflix Inc,10312020,475.74
+NFLX,Netflix Inc,11132020,482.84
+PFE,Pfizer Inc,12312019,39.18
+PFE,Pfizer Inc,01302020,37.24
+PFE,Pfizer Inc,02282020,33.42
+PFE,Pfizer Inc,03312020,32.64
+PFE,Pfizer Inc,04302020,38.36
+PFE,Pfizer Inc,05312020,38.19
+PFE,Pfizer Inc,06302020,32.70
+PFE,Pfizer Inc,07312020,38.48
+PFE,Pfizer Inc,08312020,37.79
+PFE,Pfizer Inc,09302020,36.70
+PFE,Pfizer Inc,10312020,35.48
+PFE,Pfizer Inc,11132020,38.62
+XOM,Exxon Mobile Corporation,12312019,69.78
+XOM,Exxon Mobile Corporation,01312020,62.12
+XOM,Exxon Mobile Corporation,02282020,51.44
+XOM,Exxon Mobile Corporation,03312020,37.97
+XOM,Exxon Mobile Corporation,04302020,46.47
+XOM,Exxon Mobile Corporation,05312020,45.47
+XOM,Exxon Mobile Corporation,06302020,44.72
+XOM,Exxon Mobile Corporation,07312020,42.08
+XOM,Exxon Mobile Corporation,08312020,39.94
+XOM,Exxon Mobile Corporation,09302020,34.33
+XOM,Exxon Mobile Corporation,10312020,32.62
+XOM,Exxon Mobile Corporation,11132020,36.08
+SBUX,Starbucks Corporation,12312019,87.92
+SBUX,Starbucks Corporation,01312020,84.83
+SBUX,Starbucks Corporation,02282020,78.43
+SBUX,Starbucks Corporation,03312020,65.74
+SBUX,Starbucks Corporation,04302020,76.73
+SBUX,Starbucks Corporation,05312020,77.99
+SBUX,Starbucks Corporation,06302020,73.59
+SBUX,Starbucks Corporation,07312020,76.53
+SBUX,Starbucks Corporation,08312020,84.47
+SBUX,Starbucks Corporation,09302020,85.92
+SBUX,Starbucks Corporation,10312020,89.96
+SBUX,Starbucks Corporation,11132020,95.56
+AAL,American Airlines Group Inc,12312019,28.68
+AAL,American Airlines Group Inc,01312020,26.84
+AAL,American Airlines Group Inc,02282020,19.05
+AAL,American Airlines Group Inc,03312020,12.19
+AAL,American Airlines Group Inc,04302020,12.01
+AAL,American Airlines Group Inc,05312020,10.50
+AAL,American Airlines Group Inc,06302020,13.07
+AAL,American Airlines Group Inc,07312020,11.12
+AAL,American Airlines Group Inc,08312020,13.05
+AAL,American Airlines Group Inc,09302020,12.29
+AAL,American Airlines Group Inc,10312020,11.28
+AAL,American Airlines Group Inc,11132020,12.24

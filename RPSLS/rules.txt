@@ -1,0 +1,11 @@
+Rock, Paper, Scissors, Lizard, Spock - Rules
+(3)Scissors cuts (2)Paper
+(2)Paper covers (1)Rock
+(1)Rock crushes (4)Lizard
+(4)Lizard poisons (5)Spock
+(5)Spock smashes (3)Scissors
+(3)Scissors decapitates (4)Lizard
+(4)Lizard eats (2)Paper
+(2)Paper disproves (5)Spock
+(5)Spock vaporizes (1)Rock
+(and as it always has) (1)Rock crushes (3)Scissors

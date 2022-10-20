@@ -1,0 +1,7 @@
+Out of a total of 42 games.
+User won 14 game(s).
+Computer won 18 game(s).
+Your winning percentage is 33% 
+Thank you for playing Rock, Paper, Scissors, Lizard, Spock!
+
+Have you seen Dr. Falken?
